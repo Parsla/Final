@@ -1,0 +1,164 @@
+
+.backgroundMain {
+    background-image: url("background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .header-with-logo {
+    text-align: center;
+  }
+
+  .logo {
+      width: 300px;
+      padding: 10px 10px 10px 10px;
+  }
+
+  .navigation {
+    overflow: hidden;
+    background-color: black;
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: .20em;
+    text-transform: uppercase;
+  }
+
+  .navigation nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .navigation nav .active {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: solid;
+    text-decoration-color: #ddd;
+  }
+
+  .navigation a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .backgroundParMani {
+    background-image: url("parMani.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .backgroundServices {
+    background-image: url("pakalpojumi.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .backgroundPhotos {
+    background-image: url("fotoGalerija.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .backgroundContacts {
+    background-image: url("kontakti.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .par-mani-pakalpojumi-fons {
+    max-width: 877px;
+    min-width: 480px;
+    background: #ddd;
+    padding: 16px 16px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 1);
+    /* display: grid;
+    grid-template-columns: 60% 40%; */
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: .20em;
+    text-transform: uppercase;
+    margin-top: 10px;
+    color: #ddd;
+  }
+
+  h3 {
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    margin-left: 50px;
+    color: #ddd;
+  }
+
+  p {
+    font-family: Rubik;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 50px;
+    color: #ddd;
+  }
+
+  .kontakti-fons {
+    width: 100%;
+    height: 200px;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  .kontakti-teksts {
+    font-family: "proxima-nova";
+    line-height: 1.7em;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #ddd;
+    margin: 0 0 0 50px;
+    padding-top: 36px;
+    padding-left: 920px;
+  }
+
+  .social-icons a {
+    align-items: flex-end;
+    
+    
+
+  }
+  
+  .social-icons img {
+    width: 40px;
+    padding: 5px;
+   
+    
+    
+  }
+
+  
+
+
+
+
+
